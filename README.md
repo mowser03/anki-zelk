@@ -6,7 +6,7 @@ Anki flashcard template inspired from zelk using css code skeleton from anki-pre
 
 ### Direct download (Recommended)
 1. Click on releases tab.
-2. Download zelk.apkg.zip to install all the themes in one master deck.
+2. Download zelk.apkg.zip to install all the note-types in one master deck.
 3. Download the deck package.
 4. Open Anki and click on Import File.
 5. Select the downloaded file.
